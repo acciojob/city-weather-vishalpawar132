@@ -2,4 +2,6 @@
 #root{
     text-align: center;
 }
-  
+.weather{
+    font-size: 40px;
+}
